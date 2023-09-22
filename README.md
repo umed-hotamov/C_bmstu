@@ -1,7 +1,7 @@
 # C
 
 This repository represents university labs of **C programming language** course.
-Course also includes implementation of unit testing using bash scripts.
+Course also includes unit testing using bash.
 
 ## sem 1
 
