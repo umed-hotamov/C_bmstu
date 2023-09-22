@@ -1,6 +1,6 @@
 # C
 
-This repository represents university labs of **C programming language** course.
+Repository represents university labs of **C programming language** course.
 Course also includes unit testing using bash.
 
 ## sem 1
@@ -18,3 +18,4 @@ First semeseter covers introduction to language:
 - Dynamic memory
 - Linkes lists
 - Shared and static libraries
+- Make
